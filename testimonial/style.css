@@ -1,0 +1,76 @@
+/* general outline and background */
+body {
+  margin: 0;
+  padding: 0;
+  background: #1e1e30;
+  width: 100%;
+}
+
+/* Layout */
+
+.center-page {
+  margin: 0 auto;
+  width: 60%;
+}
+
+img {
+  width: 100%;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+
+
+h3 {
+  margin-top: 5.5rem;
+  margin-bottom: 0;
+}
+
+ul,
+li {
+  margin-left: 0;
+  padding: 0;
+}
+
+hr {
+  margin-bottom: 2rem;
+  opacity: 0.3;
+}
+/* Typography */
+
+p,
+li,
+figcaption {
+  color: #e1e4e7;
+  line-height: 1.9rem;
+  font-family: outfit, roboto, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Roboto Slab", serif;
+  color: #e9e9c2;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.2rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+h3 {
+  font-size: 1.7rem;
+}
+
+figcaption {
+  font-size: 0.9rem;
+}
+
